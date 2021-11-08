@@ -1,20 +1,40 @@
-body {
-    background-color: #00b3e6;
-  }
-  
-  div {
-    width: 700px;
-    margin: auto;
-    font-family : "Helvetica Neue";
-    background: white;
-    padding: 30px;
-  
-  }
-  
-  #main-header{
-  font-size :22px
-  }
-  
-  .perspective-questions{
-    font-style: italic;
-  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+h1{
+
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+a{
+    background-color: grey;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+figcaption{
+    text-align: center;
+    font-size:small;
+}
+
+
+article p{
+    text-align: center;
+    width: 800px;
+}
+
+div{
+float: left;
+background-color: red;
+text-align: center;
+width: 25%;
+}
